@@ -1,6 +1,8 @@
 # 1ghzclock
 Python clock script made for Raspberry Pi devices with waveshare 2.13inch V4 screen.
 
+![1](https://i.ibb.co/fMgD6zD/image.png)
+
 ## How to use?
 
 You have to clone the repository while in your Raspberry Pi:
